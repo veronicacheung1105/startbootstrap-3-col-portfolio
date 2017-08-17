@@ -1,5 +1,7 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio/)
 
+**WARNING: This is a legacy verison of this template and is no longer actively developed. To view the most recent version, visit the master branch of this repo!**
+
 [3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio/) is a three column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
